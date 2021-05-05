@@ -2,7 +2,7 @@
 
 The Slim-Sprig library provides over 70 template functions for Go's template language.
 
-- [String Functions](strings.md): `trim`, `randAlpha`, `plural`, etc.
+- [String Functions](strings.md): `trim`, `plural`, etc.
   - [String List Functions](string_slice.md): `splitList`, `sortAlpha`, etc.
 - [Integer Math Functions](math.md): `add`, `max`, `mul`, etc.
   - [Integer Slice Functions](integer_slice.md): `until`, `untilStep`
